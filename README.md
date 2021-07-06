@@ -215,6 +215,7 @@ The exact workings of RSpec and the `spec_helper.rb` file are beyond the scope
 of this lesson, but the underlying premise is the same as what we did in this
 lesson.
 
+
 This is so common and so critical to Ruby applications that it became common to
 include a file dedicated to the task of requiring files and loading up any
 needed code when an application is run. In the next lesson, we'll take a closer
